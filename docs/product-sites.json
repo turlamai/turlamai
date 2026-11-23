@@ -95,14 +95,6 @@
       ]
     },
     {
-      "repo": "payback",
-      "root": "site",
-      "pages": [
-        "index.html",
-        "guide.html"
-      ]
-    },
-    {
       "repo": "permit",
       "root": "site",
       "pages": [
