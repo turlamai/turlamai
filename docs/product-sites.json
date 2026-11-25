@@ -34,14 +34,6 @@
       ]
     },
     {
-      "repo": "regexmate",
-      "root": "docs",
-      "pages": [
-        "index.html",
-        "guide.html"
-      ]
-    },
-    {
       "repo": "syncpilot",
       "root": "docs",
       "pages": [
